@@ -1,0 +1,147 @@
+#TB_window{width:1300px !important;margin-left:-650px !important;overflow:auto}
+#TB_window #TB_ajaxContent{width:auto !important;height:auto !important}
+.masked{display:none !important}
+.showthis{display:block}
+.media-select-open{position:fixed;top:52px;margin-top:0}
+#epc-stabilize-wrapper input.small-10{width:83.3333% !important}
+#epc-stabilize-wrapper .button.small-2{width:16.6667% !important}
+#epc-stabilize-wrapper .button{box-shadow:0 -2px 0 rgba(0,0,0,0.2) inset !important}
+#epc-shortcode-header{text-align:right}
+#epc-shortcode-header h4{float:left;margin-top:-50px;padding-bottom:30px}
+#epc-shortcode-header button{margin-top:5px}
+.slider-result{display:block;margin:1rem 0;text-align:right}
+.checkswitchlabel,.radioswitchlabel{line-height:1.75rem;display:inline-block;vertical-align:top;padding-left:10px}
+#epc-stabilize-wrapper .button{height:auto !important}
+.convert-inline{display:inline}
+.convert-inlineblock{display:inline-block}
+.convert-block{display:block}
+figcaption{padding:8px 0}
+figure{margin:0}
+pre{white-space:inherit}
+#frontend-preview-header{position:relative}
+#frontend-preview-header #refresh-preview{position:absolute;top:0;right:0}
+#contruct_this_shortcode .switch{padding-top:8px}
+.foundation-orbitslider img{width:100%}
+.clearing-thumbs li,[data-clearing] li{float:none;margin-right:0}
+#this-shortcode-preview .epcvideo-wrapper{margin:auto}
+#epc_global_icon{list-style:none;margin:0 !important}
+#epc_global_icon li{display:inline-block;text-align:center}
+#epc_global_icon li i{font-size:30px;padding:5px;width:40px;height:40px;display:inline-block;line-height:1;cursor:pointer;border:1px solid transparent}
+#epc_global_icon li i:hover,#epc_global_icon li i.is-selected{border:1px solid #cf6e0e}
+#epc-icon-list .button.close-reveal-modal{font-size:inherit;color:#fff;top:1.625rem;padding:.625rem 1.25rem .6875rem;font-size:.6875rem;background-color:#f04124;border-color:#cf2a0e;height:auto !important;border-style:solid;border-width:0;cursor:pointer;font-family:"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;line-height:normal;margin:0 0 1.25rem;text-decoration:none;text-align:center;border-radius:0;transition:background-color 300ms ease-out 0;box-shadow:none !important}
+#epc-icon-list .button.close-reveal-modal:hover{background-color:#cf2a0e}
+i.button-push{padding-right:10px}
+.epc_foundationcolumns .epc-colpreview{padding-bottom:10px !important}
+.epc_foundationcolumns .columns div{background:#ddd;height:60px}
+#shortcodes-list-wrapper ul.epc-sclist{border-bottom:1px dotted #ccc;margin-bottom:0;margin-top:40px}
+#shortcodes-list-wrapper li{float:left;width:20%;padding:10px 10px 10px 0;border-bottom:1px dotted #ccc}
+#shortcodes-list-wrapper li a{color:#333;display:block;padding:10px 0 10px 10px;border-left:6px solid transparent}
+#shortcodes-list-wrapper li a:hover{color:#085a78;border-left-color:#085a78}
+#shortcodes-list-wrapper li a i{margin-right:10px;width:15px;display:inline-block}
+#this-shortcode-preview .clearing-assembled{display:inline-block}
+#epc-stabilize-wrapper #contruct_this_shortcode textarea{height:auto}
+.thewrap{background:#f7f7f7;padding:10px}
+#sc-headwrap,#sc-bottomwrap{padding:15px 10px !important;background:#085a78;color:#fff}
+#sc-bottomwrap ul{margin-bottom:0}
+#sc-bottomwrap li{float:none;border:0;width:100%}
+#sc-bottomwrap li a{display:inline;color:#fff;padding:0;border:0 !important}
+#sc-bottomwrap li a:hover{color:#13a7c7}
+.large-title{font-weight:bold;font-size:20px;letter-spacing:1px}
+.medium-title{font-weight:bold;font-size:16px;letter-spacing:1px}
+.small-title{font-size:12px;letter-spacing:1px;float:right}
+.epc-sclist{overflow:hidden;margin-bottom:0}
+#sclist-wrapper{max-width:100% !important}
+.addfield-block{padding-bottom:15px;font-size:20px}
+#sc-adminpage{background-color:#085a78;background-image:url("http://epicadesign.fr/cdn-themes/global/images/zurb-stars.svg");padding:10px;overflow:hidden}
+.head-info{font-size:28px;font-weight:bold;padding:10px;border-radius:3px;color:#fff}
+.zurb-hero{width:200px;position:absolute;top:20px;right:100px}
+.general-info{font-size:13px;color:#fff;display:inline-block;vertical-align:top;width:400px;padding-top:20px}
+.general-info a{color:#fff;opacity:.7;text-decoration:none}
+.general-info a:hover{opacity:1}
+
+@media all and (max-width:1200px) {
+#TB_window {
+width:1000px!important;
+margin-left:-500px !important;
+}
+#shortcodes-list-wrapper li {width:25% !important;}
+}
+@media all and (max-width:1050px) {
+#TB_window {
+width:800px!important;
+margin-left:-400px !important;
+}	
+#shortcodes-list-wrapper li {width:50% !important;}
+}
+@media all and (max-width:800px) {
+#TB_window {
+width:700px!important;
+margin-left:-350px !important;
+}	
+}
+/* Free version only */
+#promobox .panel.callout {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #B6EDFF;
+    margin-bottom: 1.25rem;
+    padding: 1.25rem;
+    background: none repeat scroll 0% 0% #ECFAFF;
+    color: #333;
+}
+#promobox .panel.radius {
+    border-radius: 3px;
+}
+#promobox .panel.callout > :first-child {
+    margin-top: 0px;
+}
+#promobox h4 {
+    font-size: 1.4375rem;
+	font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+font-weight: normal;
+font-style: normal;
+color: #222;
+text-rendering: optimizelegibility;
+margin-bottom: 0.5rem;
+line-height: 1.4;
+}
+#promobox p {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 1rem;
+    line-height: 1.6;
+	color:#333;
+    margin-bottom: 1.25rem;
+    text-rendering: optimizelegibility;
+}
+
+#promobox .button {
+	height: auto !important;
+	box-shadow: 0px -2px 0px rgba(0, 0, 0, 0.2) inset !important;
+	border-style: solid;
+border-width: 0px;
+cursor: pointer;
+font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+font-weight: normal;
+line-height: normal;
+margin: 0px 0px 1.25rem;
+position: relative;
+text-decoration: none;
+text-align: center;
+display: inline-block;
+padding: 1rem 2rem 1.0625rem;
+font-size: 1rem;
+transition: background-color 300ms ease-out 0s;
+}
+#promobox .button.radius {
+    border-radius: 3px;
+}
+#promobox .button.warning {
+    background-color: #F08A24;
+    border-color: #CF6E0E;
+    color: #FFF;
+}
+#promobox .button.warning:hover, #promobox .button.warning:focus {
+    background-color: #CF6E0E;
+	color: #FFF;
+}

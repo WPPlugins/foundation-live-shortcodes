@@ -1,0 +1,26 @@
+/*
+ * EPICA DESIGN
+ * epicadesign.fr
+ * styles rules for fix
+*/
+
+.columnfix {overflow:hidden}
+.epc-columns-size-1, .epc-columns-size-2, .epc-columns-size-3, .epc-columns-size-4, .epc-columns-size-5, .epc-columns-size-6, .epc-columns-size-7, .epc-columns-size-8, .epc-columns-size-9, .epc-columns-size-10, .epc-columns-size-11, .epc-columns-size-12 {float:left}	
+.epc-columns-size-1 {width: 6.04%;}
+.epc-columns-size-2 {width: 14.58%;}
+.epc-columns-size-3 {width: 23.125%;}
+.epc-columns-size-4 {width: 31.666%;}
+.epc-columns-size-5 {width: 40.2%;}
+.epc-columns-size-6 {width: 48.75%;}
+.epc-columns-size-7 {width: 57.3%;}
+.epc-columns-size-8 {width: 65.834%;}
+.epc-columns-size-9 {width: 74.3%;}
+.epc-columns-size-10 {width: 80.9%;}
+.epc-columns-size-11 {width: 91.4%;}
+.epc-columns-size-12 {width: 100%;}
+.column-in-stream {margin-right: 2.5%; margin-top:35px; min-height:1px}
+.column-end-stream {margin-top:35px; min-height:1px}
+@media screen and (max-width: 800px) {
+.epc-columns-size-1, .epc-columns-size-2, .epc-columns-size-3, .epc-columns-size-4, .epc-columns-size-5, .epc-columns-size-6, .epc-columns-size-7, .epc-columns-size-8, .epc-columns-size-9, .epc-columns-size-10, .epc-columns-size-11, .epc-columns-size-12 {width: 100%;float: none;}
+.column-in-stream {margin-right: 0; margin-top:35px; min-height:1px}
+}
